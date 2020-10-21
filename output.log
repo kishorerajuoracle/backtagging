@@ -1,0 +1,10 @@
+2020-10-13 17:59:39,155:Store.py:33:__init__:INFO:root:VERSION 1.1
+2020-10-13 17:59:40,995:Volume.py:59:update_volume_tag:WARNING:root:ocid1.volume.oc1.iad.abuwcljr6ao7xbdibvycbt7nmfsv5kzzexbbk5ii445sctwlntmngq4zlsqa already updated
+2020-10-13 17:59:41,291:Volume.py:81:update_volume_backup_tag:WARNING:root:Already terminated  ocid1.volumebackup.oc1.iad.abuwcljr3evh75wfmqusouvwrk4c5z3mwbrdajioag4boqsl6b5zy5xx5tnq
+2020-10-13 17:59:41,990:Volume.py:86:update_volume_backup_tag:INFO:root:Updated Volume Backup tags ocid1.volumebackup.oc1.iad.abuwcljrxcfsddpkaiufjwau43m5ruvzrtk22ogvcocsvtel3n6nshufrtda
+2020-10-13 17:59:42,642:Volume.py:86:update_volume_backup_tag:INFO:root:Updated Volume Backup tags ocid1.volumebackup.oc1.iad.abuwcljrzupvmde3shepbiq4lbdv6sybgzvp2d2i234fa3ksm3otnomtotaa
+2020-10-13 17:59:43,276:Volume.py:59:update_volume_tag:WARNING:root:ocid1.volume.oc1.iad.abuwcljrn4ekxaoma7avkrcfgqvdrvicwhvauoh3qa4ms32uqxck4suvhtqa already updated
+2020-10-13 17:59:43,923:Volume.py:86:update_volume_backup_tag:INFO:root:Updated Volume Backup tags ocid1.volumebackup.oc1.iad.abuwcljrxnuyenvimsspfenoq4egcyacwvdgxyynq7l54tp7yomidll34arq
+2020-10-13 17:59:44,508:Volume.py:59:update_volume_tag:WARNING:root:ocid1.volume.oc1.iad.abuwcljrqkshlsrf74ak6pytj5pxn5t5ufthl5b5cuevv5lxxvvcedi75rqq already updated
+2020-10-13 17:59:45,097:Volume.py:59:update_volume_tag:WARNING:root:ocid1.volume.oc1.iad.abuwcljrxyfsgserspxog2ba3qxuvb6gk6ljcddv3equpp22qbodfkzdvxsa already updated
+2020-10-13 17:59:45,748:Volume.py:86:update_volume_backup_tag:INFO:root:Updated Volume Backup tags ocid1.volumebackup.oc1.iad.abuwcljrg5ekddvcoypaahbyojk6flas32iwsfcu3kkas6trlpage34jqhaq
